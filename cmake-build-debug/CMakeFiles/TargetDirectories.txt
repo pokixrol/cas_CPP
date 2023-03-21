@@ -1,0 +1,3 @@
+C:/Users/Kaja/Desktop/cas/cmake-build-debug/CMakeFiles/cas.dir
+C:/Users/Kaja/Desktop/cas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kaja/Desktop/cas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
